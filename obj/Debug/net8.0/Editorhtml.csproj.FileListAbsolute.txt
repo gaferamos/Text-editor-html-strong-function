@@ -1,0 +1,14 @@
+C:\Projects\Editorhtml\bin\Debug\net8.0\Editorhtml.exe
+C:\Projects\Editorhtml\bin\Debug\net8.0\Editorhtml.deps.json
+C:\Projects\Editorhtml\bin\Debug\net8.0\Editorhtml.runtimeconfig.json
+C:\Projects\Editorhtml\bin\Debug\net8.0\Editorhtml.dll
+C:\Projects\Editorhtml\bin\Debug\net8.0\Editorhtml.pdb
+C:\Projects\Editorhtml\obj\Debug\net8.0\Editorhtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Editorhtml\obj\Debug\net8.0\Editorhtml.AssemblyInfoInputs.cache
+C:\Projects\Editorhtml\obj\Debug\net8.0\Editorhtml.AssemblyInfo.cs
+C:\Projects\Editorhtml\obj\Debug\net8.0\Editorhtml.csproj.CoreCompileInputs.cache
+C:\Projects\Editorhtml\obj\Debug\net8.0\Editorhtml.dll
+C:\Projects\Editorhtml\obj\Debug\net8.0\refint\Editorhtml.dll
+C:\Projects\Editorhtml\obj\Debug\net8.0\Editorhtml.pdb
+C:\Projects\Editorhtml\obj\Debug\net8.0\Editorhtml.genruntimeconfig.cache
+C:\Projects\Editorhtml\obj\Debug\net8.0\ref\Editorhtml.dll
